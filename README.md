@@ -19,7 +19,7 @@
    <img src="https://user-images.githubusercontent.com/129913960/232250206-6f6a0e8d-346c-4d29-96af-9276f5192ecf.png">
   
  
-## Connect with me:
+## Contact me:
  <div>
   <a href="https://www.linkedin.com/in/madu-furini-0ab565269/"> 
     <img src="https://user-images.githubusercontent.com/129913960/232249843-9a5064c3-61c0-4098-b3a3-6ce4dabae974.png" alt="Linkedin Picture">
