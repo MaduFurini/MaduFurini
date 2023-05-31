@@ -9,6 +9,7 @@
     <li>Software Engineering student </li>
     <li>FCE Certficate - Cambridge - Grade C - CEFR Level B2 (164/190) 󠁧󠁢󠁥󠁮</li>
     <li>Participation in World Robotics Tournament FIRST LEGO League Open European Championship (2017)</li>
+    <li>Soft Jr.</li>
   </ul>
  </div>
  
