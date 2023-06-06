@@ -28,3 +28,5 @@
   <a href="https://www.instagram.com/madu_furini/"> 
     <img src="https://user-images.githubusercontent.com/129913960/232249935-c9efac98-03cf-45d7-ad60-7549d603f39f.png" alt="Instagram Picture">
   </a>
+   
+   ![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
