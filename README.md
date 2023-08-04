@@ -30,4 +30,4 @@
   </a>
    
   </div>
-
+![snake gif](https://github.com/MaduFurini/MaduFurini/blob/output/github-contribution-grid-snake.svg)
