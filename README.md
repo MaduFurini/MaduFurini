@@ -17,7 +17,6 @@
 <div>
   <img src="https://user-images.githubusercontent.com/129913960/232250121-1b14453a-de85-457f-a1d8-9ae6845128af.png">
   <img src="https://user-images.githubusercontent.com/129913960/232250151-aa0ebbb6-2dd9-4f2e-9007-8c4b99a0261a.png">
-   <img src="https://user-images.githubusercontent.com/129913960/232250206-6f6a0e8d-346c-4d29-96af-9276f5192ecf.png">
   
  
 ## Contact me:
