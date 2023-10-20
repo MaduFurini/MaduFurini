@@ -31,7 +31,7 @@
 ## Skills <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery"/>
     </a>
   </p>
 <div align="center">
