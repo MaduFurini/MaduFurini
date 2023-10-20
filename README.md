@@ -39,4 +39,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MaduFurini&theme=onedark)](https://github.com/MaduFurini/github-profile-trophy">
 </div>
 
-  ![Snake animation](https://github.com/MaduFurini/MaduFurini/blob/output/github-contribution-grid-snake.svg)
