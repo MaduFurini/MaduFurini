@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-        <a href="https://www.linkedin.com/in/madu-furini/"> 
+        <a href="https://www.linkedin.com/in/madufurini/"> 
           <img src="https://user-images.githubusercontent.com/129913960/232249843-9a5064c3-61c0-4098-b3a3-6ce4dabae974.png" alt="Linkedin Picture">
         </a>
         <a href="https://www.instagram.com/madu_furini/"> 
