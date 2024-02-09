@@ -32,11 +32,11 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery"/>
-      ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduFurini&layout=compact&theme=dracula)
+       <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=MaduFurini&layout=compact&theme=dracula">
     </a>
   </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaduFurini&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaduFurini&theme=dark&show_icons=true&theme=dark">
   <img src="https://github-profile-trophy.vercel.app/?username=MaduFurini&theme=onedark)](https://github.com/MaduFurini/github-profile-trophy">
 </div>
 
