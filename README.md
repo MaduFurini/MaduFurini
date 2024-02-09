@@ -32,11 +32,15 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery"/>
-       <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=MaduFurini&layout=compact&theme=dracula">
     </a>
   </p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaduFurini&theme=dark&show_icons=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduFurini&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaduFurini&theme=dark&show_icons=true&theme=dark">
   <img src="https://github-profile-trophy.vercel.app/?username=MaduFurini&theme=onedark)](https://github.com/MaduFurini/github-profile-trophy">
 </div>
 
