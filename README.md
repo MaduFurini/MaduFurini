@@ -31,10 +31,18 @@
 ## Skills <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,html,css,javascript,php,mysql,laravel,jquery,nodejs,java,react"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery,nodejs"/>
     </a>
   </p>
 
+  <h3 align="center">Learning</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,java,react"/>
+    </a>
+  </p>
+
+## Stats <img src="https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width="30px">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaduFurini&theme=dark&show_icons=true" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduFurini&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
