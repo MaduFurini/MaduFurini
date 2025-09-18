@@ -31,14 +31,14 @@
 ## Skills <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery,nodejs"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,laravel,jquery,nodejs,react"/>
     </a>
   </p>
 
   <h3 align="center">Learning</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,java,react,python"/>
+      <img src="https://skillicons.dev/icons?i=aws,java,python"/>
     </a>
   </p>
 
