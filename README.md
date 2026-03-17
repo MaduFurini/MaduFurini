@@ -38,7 +38,7 @@
   <h3 align="center">Learning</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,java,python,kotlin"/>
+      <img src="https://skillicons.dev/icons?i=aws,java,python,kotlin,typescript"/>
     </a>
   </p>
 
